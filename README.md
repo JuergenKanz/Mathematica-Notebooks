@@ -1,2 +1,2 @@
 # Mathematica-Notebooks
-A collection of Mathematica notebooks for some application areas.
+A collection of Mathematica notebooks for different application areas.
